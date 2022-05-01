@@ -1,0 +1,6 @@
+numero = int(input('Informe um numero inteiro: '))
+real = float(input('Informe um numero com casa decimal: '))
+palavra = input('Digite uma palavra: ')
+print(numero, 'é do tipo: ', type(numero))
+print(real, 'é do tipo: ', type(real))
+print(palavra, 'é do tipo: ', type(palavra))
